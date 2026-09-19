@@ -12,7 +12,7 @@ formulario.addEventListener("submit", (evento) => {
         (producto) => producto.id === productoId
     );
 
-    const total = productoSeleccionado.precio * cantidad;
+    const total = productoSeleccionado.precio + cantidad;
 
     const pedido = document.createElement("li");
     pedido.textContent =
