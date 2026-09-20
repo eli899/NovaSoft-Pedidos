@@ -22,3 +22,7 @@ Proyecto académico que simula un sistema web básico para la gestión de pedido
 Demostrar operaciones de control de versiones como creación de ramas,
 reversión de cambios, recuperación de archivos, resolución de conflictos
 y etiquetado de versiones.
+
+## Descuentos
+
+- 5% de descuento en pedidos desde $100.
