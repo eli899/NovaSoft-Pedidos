@@ -21,3 +21,4 @@ formulario.addEventListener("submit", (evento) => {
     listaPedidos.appendChild(pedido);
     formulario.reset();
 });
+console.log("DEBUG: prueba temporal");
